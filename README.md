@@ -45,7 +45,7 @@ var Circle = ProgressBar.Circle;
 
 ## Changes in tt-react-progressbar.js fork
 
-* Apply changes in this PR: https://github.com/kimmobrunfeldt/react-progressbar.js/pull/15
+* Apply changes in this repo: https://github.com/lainaireau/react-progressbar.js
 
 Original project: https://github.com/kimmobrunfeldt/react-progressbar.js
 

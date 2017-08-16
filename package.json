@@ -1,6 +1,6 @@
 {
   "name": "tt-react-progressbar.js",
-  "version": "0.2.1-tt1",
+  "version": "0.2.1-tt2",
   "description": "React wrapper for progressbar.js",
   "main": "dist/react-progressbar.js",
   "types": "typings/react-progressbar.js.d.ts",
