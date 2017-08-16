@@ -1,12 +1,12 @@
 {
-  "name": "react-progressbar.js",
-  "version": "0.2.1-dev",
+  "name": "tt-react-progressbar.js",
+  "version": "0.2.1-tt1",
   "description": "React wrapper for progressbar.js",
   "main": "dist/react-progressbar.js",
   "types": "typings/react-progressbar.js.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kimmobrunfeldt/react-progressbar.js.git"
+    "url": "git+https://github.com/mwolson/react-progressbar.js.git"
   },
   "keywords": [
     "react",
@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/kimmobrunfeldt/react-progressbar.js/issues"
   },
-  "homepage": "https://github.com/kimmobrunfeldt/react-progressbar.js#readme",
+  "homepage": "https://github.com/mwolson/react-progressbar.js#readme",
   "dependencies": {
     "lodash.isequal": "^4.1.4",
     "progressbar.js": "^1.0.1",
