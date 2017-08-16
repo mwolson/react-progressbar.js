@@ -43,6 +43,12 @@ var ProgressBar = require('react-progressbar.js')
 var Circle = ProgressBar.Circle;
 ```
 
+## Changes in tt-react-progressbar.js fork
+
+* Apply changes in this PR: https://github.com/kimmobrunfeldt/react-progressbar.js/pull/15
+
+Original project: https://github.com/kimmobrunfeldt/react-progressbar.js
+
 ## How it works
 
 See https://github.com/kimmobrunfeldt/progressbar.js#how-it-works.
